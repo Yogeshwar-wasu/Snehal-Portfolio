@@ -14,10 +14,10 @@ Feel free to explore, and if you have any feedback or suggestions, don't hesitat
 
 Here’s a sneak peek at what you can expect from the application:
 
-![Preview 1](src/assets/images/preview/preview1.jpg)  
+![Preview 1](src/assets/snehal.PNG)  
 *Responsive layout showcasing my professional journey.*
 
-![Preview 2](src/assets/images/preview/preview2.jpg)  
+![Preview 2](src/assets/Capture.PNG)  
 *A clean design with interactive features.*
 
 ---
@@ -29,8 +29,8 @@ To get this project running locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Yogeshwar-wasu/My-Portfolio.git
-    cd My-Portfolio
+    git clone https://github.com/Yogeshwar-wasu/Snehal-Portfolio.git
+    cd Snehal-Portfolio
     ```
 
 2. Install the dependencies:

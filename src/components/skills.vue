@@ -65,8 +65,8 @@ export default {
       { name: 'Git', imageSrc: 'git' },
       { name: 'BitBucket', imageSrc: 'bitbucket' },
       { name: 'JIRA', imageSrc: 'jira' },
-      { name: 'Visual Studio (2019/2022)', imageSrc: 'visual studio' },
-      { name: 'VS Code', imageSrc: 'vs code' },
+      { name: 'Visual Studio (2019/2022)', imageSrc: 'visualstudio' },
+      { name: 'VS Code', imageSrc: 'vscode' },
     ],
   };
 },
