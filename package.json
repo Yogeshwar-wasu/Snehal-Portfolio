@@ -7,29 +7,28 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@vue/cli-service": "^3.12.1",
-    "@vue/cli-service-global": "^3.12.1",
-    "@fortawesome/fontawesome-free": "^6.5.1",
-    "aos": "^2.3.4",
-    "core-js": "^2.6.12",
-    "npm": "^10.4.0",
-    "typewriter-vue": "^0.5.19",
-    "v-viewer": "^1.6.4",
-    "vue": "^2.7.15",
-    "vue-animate-onscroll": "^1.0.8",
-    "vue-dark-mode-switcher": "^0.1.8",
-    "vue-html2pdf": "^1.8.0",
-    "vue-slick-carousel": "^1.0.6",
-    "vue-typer": "^1.2.0",
-    "vuex": "^3.6.2",
-    "zoomtastic": "^2.3.1"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.1",
-    "sass": "^1.49.0",
-    "sass-loader": "^10.2.0",
-    "vue-template-compiler": "^2.7.15"
-  },
+  "@vue/cli-service": "^3.12.1",
+  "@fortawesome/fontawesome-free": "^6.5.1",
+  "aos": "^2.3.4",
+  "core-js": "^2.6.12",
+  "npm": "^10.4.0",
+  "typewriter-vue": "^0.5.19",
+  "v-viewer": "^1.6.4",
+  "vue": "^2.7.15",
+  "vue-animate-onscroll": "^1.0.8",
+  "vue-dark-mode-switcher": "^0.1.8",
+  "vue-html2pdf": "^1.8.0",
+  "vue-slick-carousel": "^1.0.6",
+  "vue-typer": "^1.2.0",
+  "vuex": "^3.6.2",
+  "zoomtastic": "^2.3.1"
+},
+"devDependencies": {
+  "@vue/cli-plugin-babel": "^3.12.1",
+  "sass": "^1.49.0",
+  "sass-loader": "^10.2.0",
+  "vue-template-compiler": "^2.7.15"
+},
   "engines": {
     "node": "16.x"
   },
